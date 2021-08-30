@@ -1,0 +1,1 @@
+2020-12-06_05-27-37	unknown user	eeprom_initialization	TUIAAAAAA	FinishedStatuses.FIRMWARE_ERROR	The firmware complains. Please make sure that the serial number format matches the constrains.

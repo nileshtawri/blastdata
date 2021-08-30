@@ -1,0 +1,16 @@
+git:
+  branch: v5.0.0dev0-27-g628e2f5
+  commit_hash: 628e2f5c2c4b4bc59de9e93120446ab4d1d60e22
+  tag: v5.0.0dev0-27-g628e2f5
+hsd_version: v1.1.0
+msb_version: v1.1.0
+offset: 3
+over_voltage: 12
+temperature_voltage_poly:
+- 0.000763185
+- 0.100424
+- 19.6212
+tester_status:
+  finish_state: FinishedStatuses.FIRMWARE_ERROR
+  tester_success: false
+threshold_voltage: 1.0

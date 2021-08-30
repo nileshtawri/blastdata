@@ -1,0 +1,148 @@
+======================================================================================================================================================
+08:39AM on August 02, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "tester\eeprom_initialization\eeprom_worker.py", line 206, in _init_eeprom_v1_1_0
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 87, in write_eeprom
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 51, in _send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 527, in send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 550, in recv
+blickfeld_scanner.scanner.protocol_exception: blickfeld.protocol.Error.NotAllowed: (errno: 15)
+	The requested operation is not allowed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 55, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 211, in _init_eeprom_v1_1_0
+library.software.blast_exceptions.BlastHardwareException: MSB with address 192.168.26.26 is not present in the system!
+======================================================================================================================================================
+08:40AM on August 02, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "tester\eeprom_initialization\eeprom_worker.py", line 206, in _init_eeprom_v1_1_0
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 87, in write_eeprom
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 51, in _send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 527, in send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 550, in recv
+blickfeld_scanner.scanner.protocol_exception: blickfeld.protocol.Error.NotAllowed: (errno: 15)
+	The requested operation is not allowed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 55, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 211, in _init_eeprom_v1_1_0
+library.software.blast_exceptions.BlastHardwareException: MSB with address 192.168.26.26 is not present in the system!
+======================================================================================================================================================
+09:02AM on August 02, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 49, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 108, in check_serial_number_format
+library.software.blast_exceptions.BlastTesterException: You typed in: 'FHH' 
+That's an invalid serialnumber!
+======================================================================================================================================================
+09:02AM on August 02, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "tester\eeprom_initialization\eeprom_worker.py", line 206, in _init_eeprom_v1_1_0
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 87, in write_eeprom
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 51, in _send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 527, in send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 550, in recv
+blickfeld_scanner.scanner.protocol_exception: blickfeld.protocol.Error.NotAllowed: (errno: 15)
+	The requested operation is not allowed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 55, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 211, in _init_eeprom_v1_1_0
+library.software.blast_exceptions.BlastHardwareException: MSB with address 192.168.26.26 is not present in the system!
+======================================================================================================================================================
+09:04AM on August 02, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "tester\eeprom_initialization\eeprom_worker.py", line 206, in _init_eeprom_v1_1_0
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 87, in write_eeprom
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 51, in _send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 527, in send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 550, in recv
+blickfeld_scanner.scanner.protocol_exception: blickfeld.protocol.Error.NotAllowed: (errno: 15)
+	The requested operation is not allowed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 55, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 211, in _init_eeprom_v1_1_0
+library.software.blast_exceptions.BlastHardwareException: MSB with address 192.168.26.26 is not present in the system!
+======================================================================================================================================================
+07:42AM on August 04, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "tester\eeprom_initialization\eeprom_worker.py", line 206, in _init_eeprom_v1_1_0
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 87, in write_eeprom
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 51, in _send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 527, in send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 550, in recv
+blickfeld_scanner.scanner.protocol_exception: blickfeld.protocol.Error.NotAllowed: (errno: 15)
+	The requested operation is not allowed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 55, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 211, in _init_eeprom_v1_1_0
+library.software.blast_exceptions.BlastHardwareException: MSB with address 192.168.26.26 is not present in the system!
+======================================================================================================================================================
+07:46AM on August 04, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 49, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 108, in check_serial_number_format
+library.software.blast_exceptions.BlastTesterException: You typed in: 'KKJKKKKKKKKKKKKK' 
+That's an invalid serialnumber!
+======================================================================================================================================================
+07:46AM on August 04, 2021 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: None
+
+
+Traceback (most recent call last):
+  File "tester\eeprom_initialization\eeprom_worker.py", line 206, in _init_eeprom_v1_1_0
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 87, in write_eeprom
+  File "site-packages\blickfeld_scanner_internal\internal.py", line 51, in _send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 527, in send_request
+  File "site-packages\blickfeld_scanner\scanner.py", line 550, in recv
+blickfeld_scanner.scanner.protocol_exception: blickfeld.protocol.Error.NotAllowed: (errno: 15)
+	The requested operation is not allowed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 183, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 55, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 211, in _init_eeprom_v1_1_0
+library.software.blast_exceptions.BlastHardwareException: MSB with address 192.168.26.26 is not present in the system!

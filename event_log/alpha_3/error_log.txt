@@ -1,0 +1,102 @@
+======================================================================================================================================================
+06:22AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:23AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:23AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:25AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:27AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:31AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:36AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:37AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+06:38AM on November 30, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.__init__
+device: None
+
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 36, in __init__
+library.software.blast_exceptions.BlastTesterException: The serial '' number is invalid. Please use valid number!
+======================================================================================================================================================
+05:27AM on December 06, 2020 - an error occured in eeprom_initialization: EEPROMinitializer.run
+device: TUIAAAAAA
+
+
+Traceback (most recent call last):
+  File "tester\eeprom_initialization\eeprom_worker.py", line 166, in _init_eeprom_v1_x_0
+  File "blickfeld_scanner_internal\internal.py", line 86, in write_eeprom
+  File "blickfeld_scanner_internal\internal.py", line 50, in _send_request
+  File "blickfeld_scanner\scanner.py", line 652, in send_request
+  File "blickfeld_scanner\scanner.py", line 676, in recv
+blickfeld_scanner.scanner.protocol_exception: blickfeld.protocol.Error.Unknown: (errno: 1)
+	The server threw an unknown generic error. Description: Cannot connect to eeprom 'ldm_source'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "library\software\sceletons\tester_manager.py", line 268, in wrapper
+  File "tester\eeprom_initialization\eeprom_worker.py", line 107, in run
+  File "tester\eeprom_initialization\eeprom_worker.py", line 173, in _init_eeprom_v1_x_0
+library.software.blast_exceptions.BlastFirmwareException: Failure during eeprom initialization

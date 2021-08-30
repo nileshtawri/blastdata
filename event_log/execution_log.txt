@@ -1,0 +1,14 @@
+2021-08-02_08-39-05	unknown user	eeprom_initialization	None	FinishedStatuses.BLAST_HW_FAILURE	Are you using the right IP address?
+Check the hardware connection.
+2021-08-02_08-39-05	unknown user	eeprom_initialization	None	FinishedStatuses.BLAST_HW_FAILURE	Are you using the right IP address?
+Check the hardware connection.
+2021-08-02_09-02-15	unknown user	eeprom_initialization	None	FinishedStatuses.TESTER_FAILURE	Use a serial number with this format: 0IHQAAAAR.
+2021-08-02_09-02-15	unknown user	eeprom_initialization	None	FinishedStatuses.BLAST_HW_FAILURE	Are you using the right IP address?
+Check the hardware connection.
+2021-08-02_09-03-41	unknown user	eeprom_initialization	None	FinishedStatuses.BLAST_HW_FAILURE	Are you using the right IP address?
+Check the hardware connection.
+2021-08-04_07-41-05	unknown user	eeprom_initialization	None	FinishedStatuses.BLAST_HW_FAILURE	Are you using the right IP address?
+Check the hardware connection.
+2021-08-04_07-41-05	unknown user	eeprom_initialization	None	FinishedStatuses.TESTER_FAILURE	Use a serial number with this format: 0IHQAAAAR.
+2021-08-04_07-41-05	unknown user	eeprom_initialization	None	FinishedStatuses.BLAST_HW_FAILURE	Are you using the right IP address?
+Check the hardware connection.
