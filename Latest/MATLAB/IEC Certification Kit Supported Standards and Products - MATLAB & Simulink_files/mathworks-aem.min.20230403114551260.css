@@ -1,0 +1,3 @@
+.embedded_chat .embeddedServiceHelpButton .helpButton .uiButton{background-color:#0076a8;font-family:"Arial",sans-serif}
+.embedded_chat .embeddedServiceHelpButton .helpButton .uiButton:focus{outline:1px solid #0076a8}
+h2[embeddedService-chatHeader_chatHeader]{color:#fff}
